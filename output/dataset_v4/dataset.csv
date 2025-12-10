@@ -1,2 +1,0 @@
-sample_id,filename,audio_path,transcription,duration_seconds,sample_rate,language,confidence,word_count,segments,original_duration,trimmed_duration
-test2,test2.wav,processed_audio\test2.wav,"2, 1, 2, 3, 3, 2, 1, go.",3.264,16000,en,0.7013669312000275,8,1,4.8426875,1.5786875000000005
