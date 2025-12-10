@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "created_at": "2025-12-09T19:31:13.494225",
+  "total_samples": 1,
+  "total_duration_seconds": 7.712,
+  "total_words": 13,
+  "avg_duration": 7.712,
+  "avg_confidence": 0.7357143759727478,
+  "languages": {
+    "en": 1
+  },
+  "min_duration": 7.712,
+  "max_duration": 7.712
+}

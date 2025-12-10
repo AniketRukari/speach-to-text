@@ -1,0 +1,14 @@
+# Audio processing
+pydub>=0.25.1
+librosa>=0.10.0
+soundfile>=0.12.1
+scipy>=1.11.0
+
+# Speech-to-text
+openai-whisper>=20231117
+
+# Data structuring
+pandas>=2.0.0
+
+# Utilities
+tqdm>=4.65.0
