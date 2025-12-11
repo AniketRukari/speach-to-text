@@ -1,2 +1,0 @@
-sample_id,filename,audio_path,transcription,duration_seconds,sample_rate,language,confidence,word_count,segments,original_duration,trimmed_duration
-recording,recording.wav,processed_audio\recording.wav,"123 testing. This is Aniket Rukhari applying for Lindeed, Landeeds data product role.",7.712,16000,en,0.7357143759727478,13,2,11.9466875,4.2346875

@@ -117,3 +117,4 @@ if __name__ == "__main__":
             print(f"  Text: {result['text'][:100]}...")
             print(f"  Confidence: {result['confidence']:.2f}")
             print(f"  Language: {result['language']}")
+

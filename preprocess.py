@@ -143,3 +143,4 @@ if __name__ == "__main__":
     for result in results:
         if not result['success']:
             print(f"Error processing {result['input_file']}: {result['error']}")
+

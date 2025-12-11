@@ -1,2 +1,5 @@
 sample_id,filename,audio_path,transcription,duration_seconds,sample_rate,language,confidence,word_count,segments,original_duration,trimmed_duration
-recording,recording.wav,processed_audio\recording.wav,"123 testing. This is Aniket Rukhari applying for Lindeed, Landeeds data product role.",7.712,16000,en,0.7357143759727478,13,2,11.9466875,4.2346875
+LJ025-0076,LJ025-0076.wav,processed_audio\LJ025-0076.wav,Many animals of even complex structure which live parasitically within others are wholly devoid of an elementary cavity.,8.192,16000,en,0.9991963725187816,18,2,8.3966875,0.20468750000000036
+Recording_breaks,Recording_breaks.wav,processed_audio\Recording_breaks.wav,"123 testing. This is Aniket Rukhari applying for Lindeed, Landeeds data product role.",7.712,16000,en,0.7357143759727478,13,2,11.9466875,4.2346875
+Recording_unclear,Recording_unclear.wav,processed_audio\Recording_unclear.wav,"Hi, this is an occasional curry, this recording will be saved under the waveform.",4.896,16000,en,0.9711512010544538,14,1,6.997375,2.101375
+recording_marathi,recording_marathi.wav,processed_audio\recording_marathi.wav,Ek recording thrichi there meblo tati,6.56,16000,hi,0.9684506841003895,6,2,8.7466875,2.1866875000000006
